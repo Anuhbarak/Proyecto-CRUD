@@ -1,0 +1,22 @@
+
+```gitignore
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Binarios
+bin/
+obj/
+
+# Archivos generados por el compilador
+*.exe
+*.dll
+
+# Archivos temporales
+*.log
+*.tmp
+*.cache
+
+# Configuración del entorno
+appsettings.Development.json
